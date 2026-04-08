@@ -3,4 +3,4 @@ CREATE TABLE IF NOT EXISTS tasks (
     name VARCHAR(255) NOT NULL
 );
 
-INSERT INTO tasks (name) VALUES ('Task 1 from Postgres'), ('Task 2 from Postgres');
+INSERT INTO tasks (name) VALUES ('Task 1 from Postgres'), ('Task 2 from Postgres'), ('Tea');
